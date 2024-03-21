@@ -21,6 +21,6 @@ Any kind of collaboration is welcome, if you would like to get deeply involved i
 
 ## About Us
 
-本组织的成员均为自愿参与，不应以任何方式通过本组织内的项目营利，不应为任何捐赠者提供额外的支持  
+本组织的成员均为自愿参与，不应以任何方式通过本组织内的项目营利，不应为任何捐赠者提供闭源支持  
 
-The membership of the Organization is voluntary and shall not profit in any way from projects within the Organization and shall not provide additional support to any donor
+The membership of the Organization is voluntary and shall not profit in any way from projects within the Organization and shall not provide closed-source support to any donor
